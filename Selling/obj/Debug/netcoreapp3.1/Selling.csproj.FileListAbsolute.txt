@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Selling\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache
